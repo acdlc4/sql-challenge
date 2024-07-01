@@ -10,13 +10,13 @@ Limitations and/or factors involved in the analysis include the following (below
 
 
 #### Schematic Script location:
-https://github.com/acdlc4/matplotlib_proj/blob/main/sql-challenge/EmployeeSQL/schema.sql
+https://github.com/acdlc4/sql-challenge/blob/main/EmployeeSQL/schema.sql
 
 #### Analysis/Query Script location:
-https://github.com/acdlc4/matplotlib_proj/blob/main/sql-challenge/EmployeeSQL/Data_Analysis_Mod_9_Challenge.sql
+https://github.com/acdlc4/sql-challenge/blob/main/sql-challenge/EmployeeSQL/Data_Analysis_Mod_9_Challenge.sql
 
 #### ERD location:
-https://github.com/acdlc4/matplotlib_proj/blob/main/sql-challenge/EmployeeSQL/E-R_Diagram.png
+https://github.com/acdlc4/sql-challenge/blob/main/sql-challenge/EmployeeSQL/E-R_Diagram.png
 
 Any questions?
 

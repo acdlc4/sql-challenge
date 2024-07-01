@@ -1,6 +1,6 @@
 # sql-challenge
 
-With the use of the resources and tools of PostgreSQL / pgadmin and ![QuickDBD](https://app.quickdatabasediagrams.com/#/), the purpose of this project is to create a database of employees hired during the 1980s and 1990s at the fictional company, Pewlett Hackard, based on six CSV files.  The design of the SQL database holds all the data imported from the CSV files and is capable of being queried accordingly.
+With the use of the resources and tools of PostgreSQL / pgadmin and [QuickDBD](https://app.quickdatabasediagrams.com/#/), the purpose of this project is to create a database of employees hired during the 1980s and 1990s at the fictional company, Pewlett Hackard, based on six CSV files.  The design of the SQL database holds all the data imported from the CSV files and is capable of being queried accordingly.
 
 Limitations and/or factors involved in the analysis include the following (below list is not exhaustive):
 
